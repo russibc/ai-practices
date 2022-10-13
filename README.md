@@ -1,2 +1,2 @@
 # ai-practices
-:robot: Artificial intelligence practices done in Google Colab.
+🤖 Practices done in Google Colab for AI classes @ UTEC Pria
